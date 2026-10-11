@@ -80,6 +80,8 @@ relevant_KARBYTES_files[34]: https://karbytesforlifeblog.wordpress.com/chatgpt_k
 
 relevant_KARBYTES_files[35]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_14june2026/
 
+relevant_KARBYTES_files[36]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_12june2026/
+
 * * *
 
 karbytes:
