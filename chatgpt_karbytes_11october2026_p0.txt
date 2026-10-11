@@ -1444,3 +1444,308 @@ Carefully examine and describe the resource in maximal detail followed by your o
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_79/main/the_big_green_thing_10oct2026_p0.mp4
 
 (This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
+
+ChatGPT:
+
+[Worked for 14m 53s]
+
+The video shows a handheld survey of a dry hilltop: an elongated human shadow, straw-colored grass, exposed rocks, wooded valleys, a distant body of water, scattered houses, and repeated turns toward a bright, low sun. **I found no reliable speech to transcribe.**
+
+I downloaded the complete file and decoded all **2,398 frames**. I inspected their chronological sequence as frame sheets, then examined **165 frames at native resolution**, spaced approximately half a second apart, with enlargements of selected details. I also decoded and analyzed the entire audio track, keeping its timing aligned with the video. **This environment does not support direct audio listening or continuous audiovisual perception**, so the audio account below distinguishes measurements and supported inferences from sounds I could personally verify by hearing. The first-person commentary is my interpretation of the inspected material.
+
+**The overall scene.** The viewpoint is consistent with someone holding a camera while standing and moving on foot along a rounded, exposed ridge. The terrain immediately surrounding the camera consists of short, dry grass, longer tangled grass stems, compacted brown earth, scattered stones, and occasional protruding rock formations. A narrow worn trail follows the ridge.
+
+The landscape beyond has several layers. Closest are the golden-brown slopes and their uneven grass texture. Farther away are darker, tree-filled depressions and valleys. Beyond those are additional rounded hills, some largely open and others wooded. A blue-gray body of water occupies part of a distant valley. In another direction, numerous small, pale buildings spread across the hills. A closer group of buildings stands behind tall trees beside an open brown field.
+
+The sky appears essentially cloudless. It is pale blue near the horizon and stronger blue higher up, although its apparent darkness changes substantially when the camera points toward the sun. The sun produces a large white highlight, radiating streaks, washed-out areas, and occasional small colored flare artifacts. Facing away from it reveals substantially more detail in the grass, rocks, distant houses, and hills.
+
+The camera repeatedly tilts between the ground and the horizon and turns between different parts of the panorama. There are small shakes, changes in horizon angle, and intervals of motion blur. The sequence appears visually continuous; I did not identify an obvious editorial cut. There are no visible captions, titles, interface elements, or watermarks.
+
+**Chronological visual observations.** All times below are approximate positions within the video.
+
+**00:00–00:01.7 — The shadow on the grass.** The opening image points downward at dry vegetation. A large, dark human shadow occupies the center. Its torso and separated legs are recognizable, while the upper part of the silhouette reaches beyond the top edge in the earliest frames.
+
+The shadow has an asymmetric arm position. One arm appears bent or raised near the upper body, consistent with holding a recording device. The silhouette alone does not resolve the exact position of the hands or the shape of the device.
+
+Fine grass stems remain visible across the dark silhouette. This gives the shadow a textured interior: the grass is darkened rather than replaced by a perfectly uniform black shape. Outside it, the vegetation ranges from pale straw to warm brown. Small darker patches interrupt the grass cover.
+
+The shadow shifts in position and apparent proportions as the camera moves.
+
+**00:01.7–00:03.6 — The camera rises toward the ridge.** The viewpoint tilts upward. The head and shoulders of the shadow become more fully visible, then slide toward the lower portion of the image.
+
+A low grassy crest enters the frame, followed by a widening area of blue sky. The nearest ground is rough and somewhat flattened, with exposed earth and small stones among the grass. The transition establishes the camera’s location on an open hill rather than within a sheltered or densely wooded setting.
+
+**00:03.6–00:06.1 — The first outward landscape view.** The camera continues turning and lifting. Darker hills appear beyond the nearby crest. A conspicuous gray rock formation becomes visible near the ridge ahead.
+
+The foreground grass is unevenly distributed: some areas have close, flattened cover, while others contain longer stems and small bare patches. The distant wooded slopes have irregular edges, with individual tree crowns visible along portions of the skyline.
+
+The view begins to reveal the depth of the surrounding valleys.
+
+**00:06.1–00:08.9 — Direct sunlight and silhouetted trees.** The camera turns toward the low sun. A brilliant white area enters above a tree-lined ridge and becomes one of the dominant elements in the frame.
+
+Several thin bright streaks extend from the sun. The surrounding sky shifts from blue to a pale yellowish-white glow. The land beneath becomes much darker, and trees along the ridge stand out as uneven silhouettes.
+
+At approximately 00:08, the camera tilts higher, allowing the sky and sun to occupy most of the image. A small pale circular spot appears away from the sun in the upper-right portion of the sky. Its relationship to the changing camera angle is consistent with a lens-flare artifact; the frames do not establish it as a distant physical object.
+
+This interval has much less readable terrain detail than the views facing away from the sunlight.
+
+**00:08.9–00:12.3 — Rocks, water, and successive hills.** The camera lowers and turns away from the strongest glare. A prominent angular rock cluster appears in the foreground, initially toward the left. Its surfaces are gray, brownish, and faintly greenish or yellowish in places. The mottling could include surface weathering or biological growth, but the resolution does not establish its composition.
+
+The larger rocks cast a clearly extended shadow across the ground. Smaller isolated stones lie nearby, including a triangular-looking stone farther toward the right.
+
+Beyond the ridge, a blue-gray water surface appears between wooded slopes. Its visible outline is irregular, narrowing and widening as intervening hills and vegetation obscure parts of it. It looks compatible with a lake or reservoir, but the video supplies neither a readable name nor enough geographical evidence to identify it securely.
+
+The slopes around the water alternate between dark vegetation and open, dry grassland. More distant ridges appear softer and less contrasty.
+
+**00:12.3–00:15.3 — The wider settlement and another appearance of the shadow.** Continuing the turn reveals many small, light-colored building shapes across the distant hills. At this resolution, they form a dispersed pattern of bright roofs or walls among darker vegetation.
+
+The foreground remains an open grassy crest with scattered rocks. Taller dry stems rise near its edge. A short dark upright object—possibly a post or stump—appears near the right side of the foreground.
+
+The camera holder’s elongated shadow reappears around 00:14–00:15, extending from the lower edge toward the middle of the scene. Its upper-body shape again suggests an arm raised toward the recording device.
+
+The lighting in this direction is more even. Grass and buildings become easier to distinguish because the sun is outside the central field of view.
+
+**00:15.3–00:18.9 — Nearby trees and buildings.** A closer group of tall trees enters the frame. Some have broad, irregular crowns; others have narrower, tiered silhouettes characteristic of coniferous trees. Their species cannot be determined reliably from these images.
+
+Behind and between the trees are buildings. One darker rectangular structure appears to have horizontal deck or balcony elements and more than one visible level. Smaller light-colored structures appear farther to the right.
+
+A thin fence-like boundary is visible near portions of the lower tree line. In front of the buildings is a relatively open, dry field whose grass appears shorter and more uniformly flattened than some of the ridge vegetation.
+
+There are small pale shapes near the buildings and trees. They are too poorly resolved for a dependable identification as furnishings, other objects, or animals.
+
+The turn continues toward increasing sunlight, progressively reducing detail in the buildings and field.
+
+**00:18.9–00:20.9 — The sun-facing hollow and a foreground boulder.** The low sun again dominates the upper part of the view. The opposite hillside becomes dark, particularly in its wooded sections.
+
+A substantial gray boulder enters along the lower edge. Its upper surface catches some light, while its nearer face is darker. The surrounding ground contains smaller stones and dry grass.
+
+The foreground rises and falls in rounded forms. The dark hollow beyond contrasts with the bright sky and the lighter exposed ridge.
+
+**00:20.9–00:22.4 — A close view of the ground and a branched plant.** The camera tilts downward. The image fills with dry, tangled grass, exposed dirt, scattered pebbles, and irregular clumps of vegetation.
+
+A taller plant stands toward the right. It has thin, branching greenish stems and small yellowish points near some of its ends. These could be flowers or seed structures; the video does not resolve them sufficiently for identification.
+
+Several pale, broken-looking stems or twigs lie across the ground. Small stones cast short local shadows within the larger pattern of warm illumination.
+
+**00:22.4–00:24.6 — The water-centered panorama returns.** The viewpoint rises toward the distant water and its surrounding hills.
+
+The nearest ridge occupies much of the lower frame, with a faint worn route along its top. Beyond it, dark green vegetation follows depressions between the open slopes. The visible water is nestled among these darker areas.
+
+Farther to the right, pale buildings reappear on distant hills. The scene combines exposed grassland, woodland, water, and settlement within one panorama.
+
+**00:24.6–00:30.9 — Repeated turns through backlight.** The camera moves back toward the sun-facing side, briefly including some of the nearby trees and buildings, then returns across the brighter horizon.
+
+The same broad terrain remains in view, but its appearance changes considerably with the camera’s orientation. In the glare, the grass loses fine contrast, wooded areas become very dark, and the sky near the sun approaches white.
+
+Small flare spots appear intermittently. Their position changes with the framing, supporting an optical explanation.
+
+The motion has the character of an ongoing survey: the camera revisits previously seen directions instead of settling into one fixed composition.
+
+**00:30.9–00:34.8 — Open hills, woodland, and distant buildings.** The view again faces away from the strongest sunlight.
+
+The golden hills show curved, smooth-looking upper contours, while darker tree bands follow lower portions of the slopes. A faint pale line crosses part of a distant open hillside, compatible with a trail or track.
+
+The water remains visible toward the wooded valley. The distant buildings appear toward the right-hand part of the panorama.
+
+Some of the nearest grass and earth pass through the lower frame as the camera angle changes.
+
+**00:34.8–00:38.2 — The ground and a bare foot.** The camera points more steeply downward. The surface consists of compacted earth interspersed with stones and dry grass tufts.
+
+At roughly **00:36–00:37.4**, a bare foot and part of a lower leg enter the lower portion of the image. The toes are individually visible. The foot changes position between successive frames in a way consistent with stepping or repositioning on the trail.
+
+A dark gray garment edge is briefly visible near the lower-right portion of the frame.
+
+The camera then begins to rise again. These frames provide the clearest direct view of the person carrying the camera; elsewhere, that person is represented principally by the shadow and the moving viewpoint.
+
+**00:38.2–00:43.7 — The rounded ridge and wooded valley.** The camera lifts toward the horizon, passes through another sun-facing view, and returns to the valley.
+
+A narrow, worn strip along the nearest ridge becomes more apparent. It leads toward a rounded crest before the terrain drops away.
+
+The ridge’s close grass texture is distinct from the smoother appearance of the distant open hills. Dark tree crowns and shaded slopes surround the water farther away.
+
+The horizon is occasionally tilted slightly, reflecting the handheld motion.
+
+**00:43.7–00:54.5 — Alternating water views and strong sunlight.** The camera continues turning between the valley and the sun-facing hillside.
+
+In the clearer outward views, the water, wooded depressions, and dry slopes remain recognizable. In the backlit views, the water becomes less prominent while the sun’s glow, the dark ridge, and the nearby trail dominate.
+
+At some moments, a small greenish flare spot appears near the lower part of the image. There are also faint pinkish or reddish flare streaks during portions of the sun-facing movement.
+
+The close foreground gradually occupies more of the image as the camera tilts downward.
+
+**00:54.5–00:60.5 — The roughest close ground view.** The camera looks down at a rocky portion of the route. Around 00:56–00:57, several angular stones and exposed rock surfaces fill much of the frame.
+
+The rocks have fractured-looking edges, pale flecks, and uneven surfaces. Dry grass grows between them, and fine stems cross the stones. The dirt immediately beside the rocks appears compacted.
+
+This interval includes some of the strongest frame-to-frame motion in the video. The ground shifts rapidly through the image, with brief blur as the camera moves past the rocky patch.
+
+The sequence then returns to a broader view of grass and the worn trail.
+
+**00:60.5–00:65.1 — The landscape opens again.** The camera rises, revealing the water and surrounding hills once more.
+
+Dark woodland stretches across the lower slopes. Beyond it are open tan hills with rounded tops and scattered vegetation. Pale buildings remain visible in the more distant right-hand landscape.
+
+The nearest grass-covered ridge provides a continuous foreground beneath these successive layers.
+
+**00:65.1–00:74.0 — The ridge-top route and the low sun.** The narrow trail follows the crest ahead, sometimes close to the center of the frame. It contrasts with the surrounding grass as a darker or more exposed strip.
+
+The camera alternates between looking down this route and lifting toward the tree-lined opposite ridge. Sunlight enters from the left, washing over part of the scene.
+
+Around 00:73–00:74, a more noticeable pinkish diagonal flare appears beneath the bright sun-facing area. The terrain behind it remains readable in places, but with reduced contrast.
+
+**00:74.0–00:79.5 — Another view across the valley.** The camera turns outward again. The water appears between dark wooded slopes, with open golden hills beyond and beside it.
+
+The nearest ridge still occupies the lower portion of the frame. Its dry grass has small hollows, clumps, and irregular flattened patches rather than a uniform surface.
+
+This late portion revisits the same major features rather than introducing a new location.
+
+**00:79.5–00:81.73 — The final sunward movement.** The camera turns toward the brighter side of the landscape. The sun-facing wooded hillside and nearby grass-covered ridge fill most of the view.
+
+Small rocks remain visible in the foreground. The distant water moves toward the edge and becomes less prominent.
+
+The file ends while the camera is still presenting the outdoor scene. There is no visible closing title or gradual fade.
+
+**Fine visual details and limits.** The dominant colors are warm straw, ocher, dusty brown, gray stone, dark olive green, blue-gray water, and blue sky. The warmth comes principally from the illumination and dry vegetation. Much of the green is concentrated in tree groups and sheltered-looking valleys.
+
+The foreground has far more legible texture than the distant landscape. Individual stems, toes, nearby stone edges, and dirt patches are visible; distant buildings remain small light-colored shapes. Enlarging the images makes those shapes easier to examine, but does not supply additional source detail.
+
+The sun-facing images contain genuinely obscured information. Some highlights are so bright that their internal detail is lost, while some shaded land is nearly black. Those areas cannot be reconstructed confidently from the supplied file.
+
+The filename directs attention toward a “big green thing,” but **I cannot identify a uniquely designated object by that name from the video alone**. The wooded landscape is the most extensive visible green feature.
+
+**Audio observations, speech, and vocal qualities.** The file contains one mono audio track. Its declared start is approximately **0.054 seconds after the video begins**, and its declared duration is 
+
+**81.598729 seconds**. Decoding produced **81.600 seconds** of audio, consistent with the complete track and normal codec-level rounding.
+
+The analysis indicates:
+
+- A nearly continuous, irregular signal with changing intensity.
+
+- Strong concentration of energy at low frequencies.
+
+- Intermittent broader-frequency bursts and transients.
+
+- A particularly strong burst around **00:15.5–00:15.9**.
+
+- Reduced overall signal level near the end.
+
+In the 16 kHz analysis copy, approximately **90% of measured spectral power lies below 500 Hz**, and approximately **98% lies below 1 kHz**. The waveform and spectrogram show predominantly irregular noise rather than a clear sequence of sustained vocal harmonics.
+
+These characteristics, together with the exposed outdoor setting, are **consistent with wind noise and microphone buffeting**. Camera handling or movement could contribute some transients. Direct listening would be needed to distinguish individual gusts, handling sounds, footfalls, breathing, or faint distant sounds reliably.
+
+Two speech-recognition passes and additional independent excerpts failed to establish a dependable transcript. One complete pass returned no speech. Other runs produced inconsistent stock phrases, high no-speech scores, and implausible word timing. I excluded those outputs.
+
+An independent speech detector also found **no sustained speech segments**, both in the original signal and in a version with some low-frequency energy removed.
+
+**My transcription result is therefore: no reliably intelligible spoken content established.** I have no defensible words to present as the speaker’s speech.
+
+Likewise, I cannot establish a human voice well enough to describe its pitch, timbre, speaking rhythm, accent, or vocal loudness. Scattered periodic detections in noise are insufficient evidence for a vocal pitch measurement. No dependable singing or other sustained vocal performance was established.
+
+The recording’s measured levels are:
+
+[preformatted_text]
+
+| Measurement | Result |
+|---|---:|
+| Whole-track RMS level | Approximately −21.77 dBFS |
+| Maximum decoded sample peak | Approximately −2.53 dBFS |
+| Strongest short burst | Around 00:15.5–00:15.9 |
+| Final approximately 1.6 seconds, RMS | Approximately −27.55 dBFS |
+
+[end preformatted_text]
+
+These describe the digital recording’s signal level. They do not establish how loud playback would sound to a person, because playback equipment and volume settings are unknown.
+
+**EXIF and embedded metadata.** I found **no standard EXIF block**, no exposed XMP block, and no GPS coordinates. The file does contain MP4/QuickTime metadata and codec information.
+
+[preformatted_text]
+
+| Field | Extracted value |
+|---|---|
+| Filename | `the_big_green_thing_10oct2026_p0.mp4` |
+| File size | 17,320,259 bytes |
+| Approximate size | 17.32 MB / 16.52 MiB |
+| Container | MP4, recognized by the MOV/QuickTime demuxer |
+| Major brand | `mp42` |
+| Compatible brands | `isommp42` |
+| Container duration | 81.731425 seconds |
+| Video frame count | 2,398 |
+| First frame timestamp | 0.000000 seconds |
+| Last frame timestamp | 81.697342 seconds |
+| Frame rate | 29.34 frames per second |
+| Frame spacing | Approximately 0.034083 seconds |
+| Image dimensions | 462 × 260 pixels |
+| Image proportions | Approximately 16:9 |
+| Video codec | H.264 / AVC |
+| H.264 profile | High |
+| H.264 level | 2.1 |
+| Scan type | Progressive |
+| Pixel format | `yuv420p`, 8-bit |
+| Video bitrate | Approximately 1,556,916 bits per second |
+| Video encoder tag | `Lavc60.3.100 libx264` |
+| Audio codec | AAC Low Complexity |
+| Audio channels | One, mono |
+| Audio sample rate | 48,000 Hz |
+| Audio bitrate | Approximately 130,320 bits per second |
+| Audio start time | 0.054000 seconds |
+| Declared audio duration | 81.598729 seconds |
+| Overall bitrate | Approximately 1,695,334 bits per second |
+| Container encoder tag | `Lavf60.3.100` |
+| Embedded Android-version tag | `13` |
+| Video language tag | `eng` |
+| Audio language tag | `eng` |
+| Track handler names | `VideoHandle`, `SoundHandle` |
+| Embedded creation time | `2026-10-11T00:45:00.000000Z` |
+| Movie/track/media modification timestamps | Also 2026-10-11 00:45:00 UTC |
+| Camera manufacturer/model | Not supplied |
+| Lens, aperture, shutter speed, ISO | Not supplied |
+| GPS latitude/longitude/altitude | Not supplied |
+| Useful specific color-standard identification | Not supplied; relevant fields are reported as `reserved` |
+
+[end preformatted_text]
+
+The `eng` labels are metadata declarations, not evidence that English speech occurs.
+
+The embedded UTC date and the October 10 date in the filename need not conflict, since local and UTC calendar dates can differ. Nevertheless, the file’s timestamps do not independently prove the original capture time. The encoder tags identify FFmpeg/libx264 processing, and some metadata may have been retained through that processing. The Android-version tag does not identify a particular phone model.
+
+The downloaded file’s SHA-256 checksum is:
+
+`8d317d9262c2e5bb7db5346bdc9ba213c854cdd88690bccaf71a47879037184f`
+
+**My first-person interpretive commentary.** My attention begins with the shadow. Before the recording gives me an expansive landscape, it gives me a human-shaped interruption in the grass. I find that opening unusually effective because it establishes presence through an indirect image. I see the outline of a body and the traces of its changing position, while its face remains outside the record. The person enters the scene through light, ground, and movement.
+
+I am drawn to the way the grass remains visible inside the shadow. That detail prevents the silhouette from becoming entirely abstract. It is a recognizable shape, but also an area of ordinary vegetation receiving less light. I read the opening as a meeting between a person and a surface: the body is present through its effect on what lies beneath and ahead of it.
+
+When the camera rises, my attention changes scale very quickly. The field of consideration expands from individual stems and a shadow to ridges, valleys, water, and buildings. I find that transition more significant than any single distant landmark. It establishes the basic movement of the whole clip: attention repeatedly travels between the immediate ground and the larger surroundings.
+
+The downward views keep bringing me back to practical movement. The ground is irregular. Stones protrude, grass obscures parts of the surface, and the worn route is narrow. I can imagine why a person crossing this ground would alternate between looking outward and checking their footing. That is an interpretation of the camera movement, however; I cannot establish the recorder’s intentions from the images.
+
+The bare-foot interval makes the terrain more concrete for me. After many views of hills and grass as broad visual forms, the foot introduces a direct relationship between a body and those small stones, dirt patches, and stems. I find myself attending more closely to the surface afterward. Its roughness becomes relevant at the scale of contact and individual steps.
+
+I can imagine tactile qualities suggested by the images: dry stems, uneven rock edges, firm dirt, perhaps loose grit. Those remain imagined associations rather than sensations I acquired from the recording. What the video actually supplies is the visible arrangement of those materials and a brief image of a foot moving among them.
+
+The sunlight has a different effect on my interpretation. It repeatedly reduces what can be known from the image. When the camera turns toward it, fine terrain information disappears into brightness and shadow. I find this visually compelling because the illumination is simultaneously the source of the scene’s warm color and an obstacle to examining it.
+
+The flare streaks make the camera’s optics noticeable. A small colored spot or pink diagonal streak appears superimposed on the landscape, changing with the framing. I read those moments as reminders that this is a particular recording made through a particular lens, with finite dynamic range and imperfect control of stray light.
+
+The title makes me consider the distribution of green. The most immediately visible land is largely dry and golden, while much of the green follows valleys, tree groups, and shaded slopes. I become interested in that pattern: vegetation helps describe the land’s folds and depressions. The greener areas form an irregular structure within the larger panorama.
+
+I wonder what scale the phrase “the big green thing” is meant to designate. It could be a familiar personal name for a place, a reference to a wooded expanse, or something whose significance is clearer to the recorder than to an outside viewer. The images leave that question open. I find the uncertainty useful because it encourages attention to relationships across the landscape instead of directing everything toward one confidently identified object.
+
+The water draws my attention partly because its color and relatively smooth appearance differ from the surrounding grass and trees. It is a cool-toned area within a warmer setting, and its irregular visible outline suggests that much of it continues behind intervening slopes. I find myself wanting to understand its full shape and its relationship to the hills. The recording offers glimpses rather than a complete geographical explanation.
+
+The houses add another scale of detail. At a distance, their light-colored surfaces form a dispersed pattern across the slopes. When the camera turns toward the nearer buildings, decks or balconies, tall trees, and a possible fence become more legible. I read those views as evidence that the open ridge is connected to a lived landscape with buildings and boundaries nearby.
+
+I cannot derive a social story from those buildings. Their occupants, uses, and relationship to the route remain unknown. Still, their presence changes my understanding of the scene. The panoramic view includes both relatively open terrain and developed areas, sometimes within the same frame.
+
+The repeated turns interest me more than a single polished panoramic composition would. Each return changes the emphasis. One view gives prominence to water, another to a rock cluster, another to the sun, another to the narrow trail. The place stays broadly consistent while the camera’s selection changes.
+
+That repetition also gives the recording a sense of ongoing attention. I read it as a short period spent surveying surroundings while moving, with the camera following shifts between nearby and distant features. I would be cautious about assigning a specific mood—contentment, fatigue, curiosity, distraction—to the recorder. The motion supports several possible readings.
+
+The audio limitation leaves part of that interpretation unresolved. The measured signal is compatible with an exposed, windy setting, but I cannot use direct hearing to judge how forceful the wind sounds, whether individual steps are distinct, or whether there are subtle nearby sounds. I therefore keep the visual impression of openness separate from a claimed auditory atmosphere.
+
+The absence of an established verbal account gives the visible scene considerable interpretive freedom. There is no reliable spoken explanation telling me which feature matters, what the route is called, or what prompted each turn. My attention can remain with the alternating scales of the record: shadow, foot, grass, stone, ridge, trees, water, buildings, horizon.
+
+The low resolution creates another kind of openness, although it also imposes firm limits. Large spatial relationships survive well. I can follow the ridge, recognize the water, distinguish wooded from open slopes, and see the camera’s changes of direction. Small distant objects remain ambiguous. I find it important to preserve that ambiguity instead of making the landscape seem more fully resolved than the file permits.
+
+The ending leaves my attention on a continuing place and a continuing movement. The camera has returned toward the bright hillside; the grass and stones are still passing through changing compositions when the file stops. I am left wondering what the next turn would show, how the ridge connects to the valley below, and which part of this broad view the recorder most wanted to preserve.
