@@ -22,6 +22,8 @@ relevant_KARBYTES_files[5]: https://karbytesforlifeblog.wordpress.com/chatgpt_ka
 
 relevant_KARBYTES_files[6]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_10october2026_a0/
 
+relevant_KARBYTES_files[7]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_09october2026_a0/
+
 * * *
 
 karbytes:
@@ -1369,3 +1371,11 @@ A public-domain work can still depend on paid hosting resources. A publicly visi
 Because the page is itself part of the archive whose future is being considered, it preserves the reasoning behind possible administrative changes. A later reader can see that a downgrade was investigated as a way to change costs while retaining publication, that storage was considered independently, and that uninterrupted visibility and advertising remained separate concerns.
 
 The ending supplies no dramatic resolution. It leaves a practical distinction between paying for an advertisement-free site and using a blocker for individual viewing, then closes with the update date and licensing statement. The document preserves a set of researched possibilities whose eventual implementation remains outside the recorded conversation: continued Personal plans, Free plans with retained content, separately purchased storage, manual restoration of public visibility, and different experiences of advertisements for different visitors.
+
+karbytes:
+
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
+
+https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_09october2026_a0/
+
+(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
