@@ -70,3 +70,46 @@ On the following web page, verify whether or not the sub-index pages whose index
 https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/
 
 (This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
+
+ChatGPT:
+
+[Worked for 4m 6s]
+
+**Yes. Sub-index pages 245–270 contain all 546 repository-file and “(*)” destination hyperlinks from the current micro-directory.** Every hyperlink on those sub-index pages displays the exact full URL used as its actual destination.
+
+I checked all 26 pages linked from the [precision-batches index](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/) against a fresh copy of the micro-directory. The comparison finished at approximately **3:03 a.m. Pacific time on 13 October 2026**.
+
+[preformatted_text]
+
+| Check | Result |
+|---|---:|
+| Sub-index pages successfully loaded | 26 of 26 |
+| Repository-file URLs represented | 494 of 494 |
+| Micro-directory “(*)” destinations represented | 52 of 52 |
+| Additional link to the micro-directory itself | 1, on page 245 |
+| Total hyperlinks across pages 245–270 | 547 |
+| Missing requested URLs | 0 |
+| Duplicate URLs | 0 |
+| Visible URL differs from actual destination | 0 |
+| Unexpected URLs beyond the micro-directory’s own URL | 0 |
+
+[end preformatted_text]
+
+The entry for `chatgpt_karbytes_13october2026_p1.txt`, which appeared during the preceding audit, is included. Both onion destinations are also reproduced with their complete URLs.
+
+I found one batching discrepancy: **the index states a maximum of 21 hyperlinks per sub-index page, but 15 of these pages contain 22.** The distribution is:
+
+[preformatted_text]
+
+| Hyperlinks per page | Sub-index page numbers |
+|---:|---|
+| 22 | 245, 250–256, 259, 262–265, 267, 269 |
+| 21 | 246, 247, 249, 258, 260, 261, 266, 268 |
+| 20 | 248, 257 |
+| 9 | 270 |
+
+[end preformatted_text]
+
+That discrepancy does not affect hyperlink coverage or the accuracy of the displayed URLs.
+
+For completeness, the micro-directory’s separate introductory image-credit link to `KARLINA_OBJECT_extension_pack_31` and its nine explanatory/footer hyperlinks are absent from these batches. The **494 repository-file links and all 52 “(*)” destinations requested in this comparison are fully covered**.
