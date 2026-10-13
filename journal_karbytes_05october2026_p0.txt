@@ -75,3 +75,5 @@ karbytes_autumn2026_web_pages[3]: https://karbytesforlifeblog.wordpress.com/chat
 karbytes_autumn2026_web_pages[4]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_12october2026_a0/
 
 karbytes_autumn2026_web_pages[5]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_13october2026_a0
+
+karbytes_autumn2026_web_pages[6]: https://karlinarayberinger.github.io/KARLINA_OBJECT_extension_pack_80/unlisted_web_page_chatgpt_karbytes_14october2026_a0.html
