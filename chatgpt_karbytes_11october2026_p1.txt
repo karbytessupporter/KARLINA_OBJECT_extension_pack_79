@@ -64,6 +64,8 @@ relevant_KARBYTES_files[26]: https://karlinarayberinger.github.io/KARBYTES_ULTIM
 
 relevant_KARBYTES_files[27]: https://karlinarayberinger.github.io/KARBYTES_ULTIMATE_ARCHIVE/new_macro-directory_page_1.html
 
+relevant_KARBYTES_files[28]: https://karlinarayberinger.github.io/KARLINA_OBJECT_extension_pack_80/
+
 * * *
 
 karbytes:
@@ -6873,3 +6875,11 @@ The stylesheet also carries its own descriptive header. It identifies karbytes a
 The document’s compactness makes its relationships particularly easy to identify. One entry leads back to the explanatory beginning of the newer sequence, one identifies the current surface, and one leads into the extension-pack directory represented here. Each relationship is recorded through an indexed label and an explicit destination, and the closing paragraph attaches chronology and licensing information to the resulting page.
 
 The page ends with its update date, its public-domain designation, and a final horizontal rule. Its preserved content establishes a named position within the newer KARBYTES macro-directory sequence and records the destinations available from that position. The visitor can return to the introductory directory, identify the present page through its self-reference, or proceed toward KARLINA_OBJECT_extension_pack_80 through the third entry.
+
+karbytes:
+
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
+
+https://karlinarayberinger.github.io/KARLINA_OBJECT_extension_pack_80/
+
+(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
