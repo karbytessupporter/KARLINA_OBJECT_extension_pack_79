@@ -1,7 +1,7 @@
 /**
  * file: journal_karbytes_05october2026_p0.txt
  * type: plain-text
- * date: 11_OCTOBER_2026
+ * date: 12_OCTOBER_2026
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -69,3 +69,5 @@ karbytes_autumn2026_web_pages[1]: https://karbytesforlifeblog.wordpress.com/chat
 karbytes_autumn2026_web_pages[2]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_08october2026_a4/
 
 karbytes_autumn2026_web_pages[3]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_10october2026_a0/
+
+karbytes_autumn2026_web_pages[4]: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_12october2026_a0/
