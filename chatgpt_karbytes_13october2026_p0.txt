@@ -67,3 +67,36 @@ What I would like you to do now (just to be extra thorough with the interim audi
 On the following web page, verify whether or not the sub-index pages whose index numbers are numbered 245 to 259 contain all of the aforementioned hyperlinks with the one exception being that the links may appear in a different order than how they appear in the respective micro-directory (i.e. KARLINA_OBJECT_extension_pack_79) and each of the sub-index hyperlinks display the full URL they point to as their visible components:
 
 https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/
+
+ChatGPT:
+
+[Worked for 13m 43s]
+
+**Sub-indexes 245–259 do not contain all the current micro-directory links.** However, all 15 pages loaded successfully, and **all 322 hyperlinks present display their actual full URLs correctly**.
+
+Using the micro-directory retrieved at approximately **1:12 AM PDT on 13 October 2026**:
+
+[preformatted_text]
+
+| Link category | Expected | Present in 245–259 | Missing |
+|---|---:|---:|---:|
+| Distinct raw-file URLs | 493 | 296 | 197 |
+| Destinations of “(*)” links | 52 | 25 | 27 |
+
+[end preformatted_text]
+
+The micro-directory changed during this audit: its earlier URL-label error and duplicate were corrected, and the previous audit report was added.
+
+The index now lists **245–270** for extension pack 79. I also checked those later pages. Across that expanded range, **492 of 493 raw-file URLs** and **50 of 52 asterisk destinations** are represented. These discrepancies remain:
+
+1. **One missing raw-file link:** `July18_p3_recording_report_[generated_by_chatgpt_04oct2026].md` is absent throughout 245–270.
+
+2. **Two incorrect targets on [sub-index 262](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/sub-index_page_262.html):** the visible URLs for `chatgpt_karbytes_05october2026_a1/` and `chatgpt_karbytes_05october2026_a2/` both actually point to `chatgpt_karbytes_05october2026_a0/`. Each `href` should equal its displayed URL.
+
+3. **One duplicate:** `karbytes_thinking_09october2026_p0.mp4` appears on both sub-indexes **266 and 267**. Both instances are correctly labeled and targeted.
+
+4. **A stated-limit discrepancy:** pages **245, 250–256, and 259** each contain 22 hyperlinks, although the index introduction specifies a maximum of 21. Page 245 includes the micro-directory link among its 22.
+
+The complete report records every expected URL, its sub-index locations, and counts for each page:
+
+:chatgpt-content-reference{index="0"}[KARLINA_OBJECT_extension_pack_79_subindex_audit_13october2026.md](sandbox:/workspace/scratch/7b5b1f93d9b2/KARLINA_OBJECT_extension_pack_79_subindex_audit_13october2026.md)
