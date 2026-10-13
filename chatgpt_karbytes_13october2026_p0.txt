@@ -19,3 +19,39 @@ https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJ
 Also verify whether or not every hyperlink on that micro-directory web page whose visible text is simply an asterisk enclosed in parentheses links to the correct web page.
 
 Finally, point out any discrepancies you notice while completing the requested task.
+
+ChatGPT:
+
+[Worked for 12m 3s]
+
+The directory includes **all 492 repository files**, and every actual raw-file target is correct and returned HTTP 200. I found two issues in the directory’s list.
+
+[preformatted_text]
+
+| Check | Result |
+|---|---|
+| Repository files represented | 492 of 492 |
+| Correct actual raw-file targets | 492 of 492 |
+| Correct visible full URLs | 491 of 492 |
+| Ordinary-web “(*)” destinations | All 50 correct |
+| Onion “(*)” destinations | Addresses match source files; live contents unverified |
+
+[end preformatted_text]
+
+The discrepancies are:
+
+1. **One incorrect visible URL.** The link for `KARBYTES_Hiatus_Autumn_Cosmic_Wilderness_[generated_by_chatgpt_05oct2026].png` omits `KARLINA_OBJECT_extension_pack_79/main/` from its displayed text. Clicking it works because its actual target is correct, but requesting the displayed URL returns 404. Replace its visible text with the [correct full URL](https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_79/main/KARBYTES_Hiatus_Autumn_Cosmic_Wilderness_%5Bgenerated_by_chatgpt_05oct2026%5D.png).
+
+2. **One duplicate entry.** `karbytes_thinking_09october2026_p0.mp4` appears twice consecutively. Both links are correct. This accounts for **493 raw-file link occurrences covering 492 distinct files**.
+
+I also noticed two discrepancies on associated webpages:
+
+3. The [ultimate-archive directory](https://karlinarayberinger.github.io/KARLINA_OBJECT_extension_pack_80/raw_github_files_directory_KARBYTES_ULTIMATE_ARCHIVE.html) reached through its “(*)” has the incorrect browser title `raw_github_files_directory_KARLINA_OBJECT_extension_pack_80`. Its heading and contents identify the correct ultimate-archive directory, so the hyperlink itself is correct.
+
+4. The pack-79 copy of `raw_github_files_directory_KARLINA_OBJECT_extension_pack_80.html` lists only `LICENSE`, while its correctly linked [live page](https://karlinarayberinger.github.io/KARLINA_OBJECT_extension_pack_80/) lists eight files. The stored copy therefore differs from the current page.
+
+The two live-verification exceptions are the “(*)” links beside `unlisted_web_page_karbytes_darknet_websites_root_directory_web_page.html` and `unlisted_web_page_karbytes_first_onion_web_page.html`. Their onion addresses match their respective source files, but I could not verify their current availability or served contents without Tor.
+
+The complete report records every repository file and every “(*)” destination:
+
+:chatgpt-content-reference{index="0"}[KARLINA_OBJECT_extension_pack_79_link_audit_13october2026.md](sandbox:/workspace/scratch/7b5b1f93d9b2/KARLINA_OBJECT_extension_pack_79_link_audit_13october2026.md)
