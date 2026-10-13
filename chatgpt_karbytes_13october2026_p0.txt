@@ -70,5 +70,93 @@ https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_bat
 
 (This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
 
+* * *
+
+[karbytes accidentally specified too small of a range of sub-index web pages. Hence, karbytes submitted an updated version of the same request (to cover all the sub-index web pages for the KARLINA_OBJECT_extension_pack_79 file URLs).]
+
+* * *
+
+ChatGPT:
+
+[Worked for 6m 28s]
+
+**Sub-indexes 245–270 still have one missing raw-file URL and two misdirected webpage links.** I freshly checked all 26 pages at approximately **1:44 AM PDT on 13 October 2026**, comparing actual hyperlink targets independently of their order.
+
+[preformatted_text]
+
+| Check | Result |
+|---|---:|
+| Sub-index pages successfully retrieved | 26 of 26 |
+| Distinct raw-file URLs represented | 492 of 493 |
+| Distinct micro-directory “(*)” destinations represented | 50 of 52 |
+| Existing hyperlinks whose visible full URL matches their actual target | 544 of 546 |
+| Main index’s links to sub-indexes 245–270 correctly labeled | 26 of 26 |
+
+[end preformatted_text]
+
+All existing raw-file targets correspond to files in the current repository. The current micro-directory itself includes all 493 repository files.
+
+The following raw-file URL is **absent from every examined sub-index**:
+
+[preformatted_text]
+
+```text
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_79/main/July18_p3_recording_report_[generated_by_chatgpt_04oct2026].md
+```
+
+[end preformatted_text]
+
+On [sub-index 262](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/sub-index_page_262.html), these two visible URLs have incorrect actual targets:
+
+[preformatted_text]
+
+| Visible full URL | Actual target |
+|---|---|
+| `https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_05october2026_a1/` | `https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_05october2026_a0/` |
+| `https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_05october2026_a2/` | `https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_05october2026_a0/` |
+
+[end preformatted_text]
+
+Each hyperlink’s `href` needs to equal its displayed URL. Consequently, the `a0` page is currently targeted three times, while neither `a1` nor `a2` has a correctly targeted hyperlink anywhere in 245–270.
+
+There is also a duplicate: `karbytes_thinking_09october2026_p0.mp4` appears on both **266 and 267**. Both instances display and target the correct full URL. I checked the current GitHub source files for 262, 266, and 267; they match the served pages and contain these same discrepancies.
+
+Here are the counts for every examined page. “Associated links” counts occurrences of destinations corresponding to the micro-directory’s asterisk links, including repetitions. Page 245 additionally contains one link to the micro-directory itself.
+
+[preformatted_text]
+
+| Sub-index | Raw-file links | Associated links | Total hyperlinks | Incorrect URL labels |
+|---|---:|---:|---:|---:|
+| 245 | 21 | 0 | 22 | 0 |
+| 246 | 12 | 9 | 21 | 0 |
+| 247 | 18 | 3 | 21 | 0 |
+| 248 | 17 | 3 | 20 | 0 |
+| 249 | 20 | 1 | 21 | 0 |
+| 250 | 22 | 0 | 22 | 0 |
+| 251 | 18 | 4 | 22 | 0 |
+| 252 | 21 | 1 | 22 | 0 |
+| 253 | 22 | 0 | 22 | 0 |
+| 254 | 20 | 2 | 22 | 0 |
+| 255 | 22 | 0 | 22 | 0 |
+| 256 | 22 | 0 | 22 | 0 |
+| 257 | 20 | 0 | 20 | 0 |
+| 258 | 21 | 0 | 21 | 0 |
+| 259 | 20 | 2 | 22 | 0 |
+| 260 | 20 | 1 | 21 | 0 |
+| 261 | 20 | 1 | 21 | 0 |
+| 262 | 17 | 5 | 22 | **2** |
+| 263 | 22 | 0 | 22 | 0 |
+| 264 | 21 | 1 | 22 | 0 |
+| 265 | 19 | 3 | 22 | 0 |
+| 266 | 17 | 4 | 21 | 0 |
+| 267 | 19 | 3 | 22 | 0 |
+| 268 | 19 | 2 | 21 | 0 |
+| 269 | 17 | 5 | 22 | 0 |
+| 270 | 6 | 2 | 8 | 0 |
+| **Total** | **493** | **52** | **546** | **2** |
+
+[end preformatted_text]
+
+A further documentation discrepancy remains: the [index introduction](https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/) states a maximum of **21 hyperlinks per sub-index**, but **245, 250–256, 259, 262–265, 267, and 269** each contain **22**.
 
 
