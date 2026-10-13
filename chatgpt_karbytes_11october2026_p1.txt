@@ -60,6 +60,8 @@ relevant_KARBYTES_files[24]: https://karbytesforlifeblog.wordpress.com/chatgpt_k
 
 relevant_KARBYTES_files[25]: https://karlinarayberinger.github.io/KARBYTES_ULTIMATE_ARCHIVE/
 
+relevant_KARBYTES_files[26]: https://karlinarayberinger.github.io/KARBYTES_ULTIMATE_ARCHIVE/new_macro-directory_page_0.html
+
 * * *
 
 karbytes:
@@ -6691,3 +6693,11 @@ The X profile reported 1,782 posts, 301 followers, 826 following, and an August 
 The images also showed continuity across platforms. The orange box drawing appeared on GitHub, while the yellow galaxy drawing appeared on Internet Archive, Patreon, Instagram, and Minds. Romanesco appeared on KARLINA_OBJECT and as the X avatar. Facebook and Bluesky used portrait photographs, while their accompanying scenery and illustrations broadened the presentation beyond the geometric logos. Patreon’s banner depicted a glowing pyramid of gold ingots against black.
 
 The principal access limitation was LinkedIn, which returned HTTP status 999 and did not provide readable profile content. Reddit’s live profile-data request was also blocked; the available search copy was older and showed a profile containing mostly short comments on other people’s posts, including music, natural phenomena, artwork, games, and dreams. [Reddit](https://www.reddit.com/user/karbytes/?utm_source=chatgpt.com) Several search copies of other destinations also lagged behind their directly retrieved versions. The directory counts, new-archive announcement, and current GitHub pinning arrangement above came from those directly retrieved versions. The long resource-by-resource report remained unwritten when you ended the assignment.
+
+karbytes:
+
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
+
+https://karlinarayberinger.github.io/KARBYTES_ULTIMATE_ARCHIVE/new_macro-directory_page_0.html
+
+(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
