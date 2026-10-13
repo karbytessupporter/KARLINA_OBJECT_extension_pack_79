@@ -6643,3 +6643,6 @@ End for.
 End if.
 
 End for.
+
+(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
+
