@@ -6621,3 +6621,25 @@ The public-domain designation concerns the displayed content’s stated reuse st
 The homepage’s arrangement gives particular prominence to continuity across a distributed body of work. It brings the two WordPress websites and the GitHub Pages archive into one explicit definition, gives their files a common GitHub account-level provenance, and puts the newer directory entrance at the top. Its illustrations, naming conventions, repeated colors, and biographical identifiers help a reader recognize the connections among those destinations. The archive’s organization is expressed through several cooperating forms: a visual table, a numbered definition, a repository-account statement, a creator definition, a networking list, and dated chronology.
 
 The document ends by attaching a founding date and an open licensing statement to this entrance into KARBYTES. A reader reaching the footer has been given a route toward the newest directories, a definition of the collection’s three-website scope, an account of the creator’s names and preferred pronouns, a biological reference associated with that creator, and a set of contact and profile destinations. The homepage preserves those relationships in a small, inspectable document whose principal work is to make the larger collection recognizable and navigable.
+
+karbytes:
+
+For each hyperlink which appears on the web page I asked you to examine in the previous request, open that hyperlink and describe the respective resource in maximal detail.
+
+If that resource is a GitHub dot IO web page, then open that web page and do the following...
+
+For each hyperlink which appears on the web page I asked you to examine in the previous request, open that hyperlink and describe the respective resource in maximal detail.
+
+If that resource is a GitHub dot IO web page, then open that web page and do the following...
+
+For each hyperlink which appears on the web page I asked you to examine in the previous request, open that hyperlink and describe the respective resource in maximal detail.
+
+End for.
+
+End if.
+
+End for.
+
+End if.
+
+End for.
