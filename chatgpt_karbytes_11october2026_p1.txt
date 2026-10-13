@@ -62,6 +62,8 @@ relevant_KARBYTES_files[25]: https://karlinarayberinger.github.io/KARBYTES_ULTIM
 
 relevant_KARBYTES_files[26]: https://karlinarayberinger.github.io/KARBYTES_ULTIMATE_ARCHIVE/new_macro-directory_page_0.html
 
+relevant_KARBYTES_files[27]: https://karlinarayberinger.github.io/KARBYTES_ULTIMATE_ARCHIVE/new_macro-directory_page_1.html
+
 * * *
 
 karbytes:
@@ -6789,3 +6791,11 @@ The footer states that the web page was last updated on 12 October 2026. This da
 The same footer states that the content displayed on the page is licensed as public-domain intellectual property. Its licensing reference leads to the PUBLIC_DOMAIN page within KARLINA_OBJECT. This connects the newer macro-directory document to an explanatory resource on another established KARBYTES website. The footer therefore records both a revision date and the licensing designation under which the displayed material is presented.
 
 The document ends with that dated licensing statement and a final horizontal rule. By that point, the reader has been given a definition of the repository-associated micro-directory, an explanation of the extensible macro-directory sequence, stated expectations for unit size, and explicit destinations for the original, present, and next directory surfaces. Its compact structure preserves the relationships needed to move from an introductory hub into the wider collection while keeping the earlier directory’s place in that organization visible.
+
+karbytes:
+
+Generate a maximally detailed (plain-text only, zero-url) essay summarizing the following document:
+
+https://karlinarayberinger.github.io/KARBYTES_ULTIMATE_ARCHIVE/new_macro-directory_page_1.html
+
+(This time favor constraining the response to in-conversation text only but choose instead to format the response as a downloadable markdown file if you think that would make for a more detail-rich report).
